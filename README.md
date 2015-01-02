@@ -1,4 +1,0 @@
-Distriweb-dojo
-==============
-
-dojo
